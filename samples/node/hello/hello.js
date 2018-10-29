@@ -1,7 +1,7 @@
 'use strict';
 
-var name = 'Node.js';
-var s = `Hello, ${name}!`;
+const name = 'Node.js';
+const s = `Hello, ${name}!`;
 
 console.log(s);
 
